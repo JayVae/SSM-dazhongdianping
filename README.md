@@ -1,5 +1,5 @@
 ﻿# 项目结构介绍
-0. 仿大众点评的前后端分离的项目，前端使用了react框架，后端使用了Java SSM,数据库使用MySQL。
+0. 仿大众点评的前后端分离的项目，前端使用了react-redux框架的SPA（单页面），后端使用了Java SSM,数据库使用MySQL。
 1. comment是后台管理系统程序，因为是maven项目，
 	eclipse 和 idea以及其他IDE 均可导入。
 2. react-dianping是前端项目初始代码，已经删除了node_modules，
